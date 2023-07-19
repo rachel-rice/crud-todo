@@ -5,7 +5,7 @@
 }
 
 body {
-    background: lightblue;
+    background: rgb(93, 151, 171);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -30,7 +30,7 @@ body {
 
 h2 {
     padding: 10px;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 input {
