@@ -19,4 +19,8 @@ I did not add user authentication to this app yet. If I was going to host it I w
 
 ## Lessons Learned:
 
-This was a lesson in CRUD and using dependencies.
+This project was used to practice CRUD and using dependencies.
+
+## To install dependencies run:
+
+`npm install` 
